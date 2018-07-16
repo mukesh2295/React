@@ -1,0 +1,37 @@
+.TweeterCard {
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    display: block;
+    color: #333;
+    width: 480px;
+    display: flex;
+    max-width: 100%;
+    position: relative;
+    transition: margin-left .4s ease-out;
+}
+
+
+.TweeterCard a,img {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+ }   
+
+ .Card{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    margin-left: -200%;
+    display: -moz-flex;
+    display: -ms-flexbox;
+
+}
